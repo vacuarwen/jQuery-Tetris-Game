@@ -6,7 +6,7 @@ Classic Tetris Gameplay: Move, rotate, and stack falling Tetris blocks to clear 
 Score & Levels: Track your score and increase game speed as you level up.
 Pause/Resume: Pause the game at any time and resume without resetting the current state.
 Responsive UI: The game adapts to various screen sizes and maintains a clean layout.
-Dark Theme: Modern dark-themed UI using Bootstrap 5 for a visually appealing experience.
+Dark Theme: dark-themed UI using Bootstrap 5 for a visually appealing experience.
 
 
 Getting Started
@@ -64,10 +64,6 @@ The game's dark theme is implemented using Bootstrap and custom CSS. If you want
 UI Layout
 
 The game board and control buttons are arranged using Bootstrap's row and col classes. If you need to modify the layout, you can tweak the HTML structure inside the .container element.
-
-Future Improvements
-
-Some planned improvements for the game:
 
 
 License
