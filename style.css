@@ -1,0 +1,20 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+canvas {
+    background: #222;
+}
+
+#game-info p {
+    margin: 0;
+    font-size: 1.25rem;
+}
+
+.bg-r-g-v01 {
+    background-color: #333;
+    padding: 28px 20px;
+    border-radius: 7px;
+}
