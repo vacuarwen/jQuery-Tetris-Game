@@ -1,13 +1,14 @@
 # jQuery-Tetris-Game
-A simple and responsive Tetris game built with HTML, CSS, JavaScript, and Bootstrap 5. This game includes scoring, level progression, a countdown timer, and game-over conditions, all displayed alongside the game board in a dark-themed UI.
 
-Features:
+## A simple and responsive Tetris game built with HTML, CSS, JavaScript, and Bootstrap 5. This game includes scoring, level progression, a countdown timer, and game-over conditions, all displayed alongside the game board in a dark-themed UI.
 
-Classic Tetris Gameplay: Move, rotate, and stack falling Tetris blocks to clear lines.
-Score & Levels: Track your score and increase game speed as you level up.
-Pause/Resume: Pause the game at any time and resume without resetting the current state.
-Responsive UI: The game adapts to various screen sizes and maintains a clean layout.
-Dark Theme: dark-themed UI using Bootstrap 5 for a visually appealing experience.
+### Features:
+
+### Classic Tetris Gameplay: Move, rotate, and stack falling Tetris blocks to clear lines.
+### Score & Levels: Track your score and increase game speed as you level up.
+### Pause/Resume: Pause the game at any time and resume without resetting the current state.
+### Responsive UI: The game adapts to various screen sizes and maintains a clean layout.
+### Dark Theme: dark-themed UI using Bootstrap 5 for a visually appealing experience.
 
 
 Getting Started
